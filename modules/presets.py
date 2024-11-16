@@ -500,7 +500,7 @@ MODEL_METADATA = {
         "model_name": "讯飞星火Lite",
         "metadata": {
             "path": "/v1.1/chat",
-            "domain": "general"
+            "domain": "lite"
         }
     }
 }
